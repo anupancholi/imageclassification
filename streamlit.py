@@ -33,7 +33,7 @@ st.title("Image Classifier App")
 st.write("Upload an image (.jpg, .jpeg, .png) to get the top-5 predicted labels.")
 
 with st.sidebar:
-    st.info("About: This app classifies uploaded images using a pre-trained SGD classifier. Built with Streamlit.")
+    st.info("About: This app classifies uploaded images using a pre-trained SGD classifier. Built with Streamlit.   created by Anurodh😊.")
 
 uploaded_file = st.file_uploader(
     "Choose an image", type=["jpg", "jpeg", "png"])
