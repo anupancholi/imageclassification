@@ -13,9 +13,6 @@ A user-friendly web app for classifying images into categories using a pre-train
 **Demo Screenshot**  
 ![example](<Screenshot 2025-06-20 at 15.01.26-1.png>)
 
-<p align="center">
-  <img src="static/images/demo_screenshot.png" alt="Demo Screenshot" width="70%">
-</p>
 
 ---
 
